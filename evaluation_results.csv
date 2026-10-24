@@ -1,0 +1,4 @@
+cpu_simulasi,level_baseline,daya_baseline,reward_baseline,action_ai,level_ai,daya_ai,reward_ai
+15,MEDIUM,10.0,-13.0,DOWN,LOW,5.0,-1.5
+50,MEDIUM,10.0,-3.0,KEEP,MEDIUM,10.0,-3.0
+90,MEDIUM,10.0,-13.0,UP,HIGH,18.0,-5.4
